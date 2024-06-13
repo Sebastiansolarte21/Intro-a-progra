@@ -15,13 +15,14 @@ public class TrabajoEnClase {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        int resultado;
-        resultado = Integer.parseInt(JOptionPane.showInputDialog("Digite su nota"));
-        if (resultado <= 70){
+        
         }
         
         
         
     }
     
-}
+
+
+
+
