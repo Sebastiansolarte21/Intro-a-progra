@@ -12,8 +12,8 @@ public class Quizsebas {
 
     public static void main(String[] args) {
           // Inicializo las variables para los totales de SEM e IVM
-        double SEM = 0.0;
-        double IVM = 0.0;
+        double SEM = 0;
+        double IVM = 0;
  
         // se solicita cantidad de empleados
         int cEmpleados = Integer.parseInt(JOptionPane.showInputDialog("Por favor ingrese la cantidad de empleados para calcular el SEM e IVM: "));
